@@ -24,3 +24,8 @@
 
 .row { margin:auto;
   }
+   .navbar navbar-expand-md navbar-dark bg-dark mb-3 style{
+    position: fixed;
+    top:0;
+    z-index: 9999;
+} 
